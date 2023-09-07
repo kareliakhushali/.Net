@@ -1,0 +1,7 @@
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.csproj.AssemblyReference.cache
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.csproj.CoreCompileInputs.cache
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.exe.config
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.exe
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.pdb
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.exe
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.pdb

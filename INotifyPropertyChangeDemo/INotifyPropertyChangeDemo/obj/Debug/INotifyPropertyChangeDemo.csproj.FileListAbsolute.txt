@@ -1,0 +1,7 @@
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\INotifyPropertyChangeDemo\INotifyPropertyChangeDemo\bin\Debug\INotifyPropertyChangeDemo.exe.config
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\INotifyPropertyChangeDemo\INotifyPropertyChangeDemo\bin\Debug\INotifyPropertyChangeDemo.exe
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\INotifyPropertyChangeDemo\INotifyPropertyChangeDemo\bin\Debug\INotifyPropertyChangeDemo.pdb
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\INotifyPropertyChangeDemo\INotifyPropertyChangeDemo\obj\Debug\INotifyPropertyChangeDemo.csproj.AssemblyReference.cache
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\INotifyPropertyChangeDemo\INotifyPropertyChangeDemo\obj\Debug\INotifyPropertyChangeDemo.csproj.CoreCompileInputs.cache
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\INotifyPropertyChangeDemo\INotifyPropertyChangeDemo\obj\Debug\INotifyPropertyChangeDemo.exe
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\INotifyPropertyChangeDemo\INotifyPropertyChangeDemo\obj\Debug\INotifyPropertyChangeDemo.pdb

@@ -1,0 +1,7 @@
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\CSharp6.0Features\CSharp6.0Features\bin\Debug\CSharp6.0Features.exe.config
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\CSharp6.0Features\CSharp6.0Features\bin\Debug\CSharp6.0Features.exe
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\CSharp6.0Features\CSharp6.0Features\bin\Debug\CSharp6.0Features.pdb
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\CSharp6.0Features\CSharp6.0Features\obj\Debug\CSharp6.0Features.csproj.AssemblyReference.cache
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\CSharp6.0Features\CSharp6.0Features\obj\Debug\CSharp6.0Features.csproj.CoreCompileInputs.cache
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\CSharp6.0Features\CSharp6.0Features\obj\Debug\CSharp6.0Features.exe
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\CSharp6.0Features\CSharp6.0Features\obj\Debug\CSharp6.0Features.pdb

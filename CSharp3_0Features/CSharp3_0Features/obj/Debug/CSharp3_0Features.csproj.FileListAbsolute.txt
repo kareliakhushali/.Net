@@ -1,0 +1,7 @@
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\CSharp3_0Features\CSharp3_0Features\bin\Debug\CSharp3_0Features.exe.config
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\CSharp3_0Features\CSharp3_0Features\bin\Debug\CSharp3_0Features.exe
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\CSharp3_0Features\CSharp3_0Features\bin\Debug\CSharp3_0Features.pdb
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\CSharp3_0Features\CSharp3_0Features\obj\Debug\CSharp3_0Features.csproj.AssemblyReference.cache
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\CSharp3_0Features\CSharp3_0Features\obj\Debug\CSharp3_0Features.csproj.CoreCompileInputs.cache
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\CSharp3_0Features\CSharp3_0Features\obj\Debug\CSharp3_0Features.exe
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\CSharp3_0Features\CSharp3_0Features\obj\Debug\CSharp3_0Features.pdb

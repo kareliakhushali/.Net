@@ -1,0 +1,7 @@
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

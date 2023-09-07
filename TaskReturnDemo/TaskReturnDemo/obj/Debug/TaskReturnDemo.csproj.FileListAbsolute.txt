@@ -1,0 +1,7 @@
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\TaskReturnDemo\TaskReturnDemo\bin\Debug\TaskReturnDemo.exe.config
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\TaskReturnDemo\TaskReturnDemo\bin\Debug\TaskReturnDemo.exe
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\TaskReturnDemo\TaskReturnDemo\bin\Debug\TaskReturnDemo.pdb
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\TaskReturnDemo\TaskReturnDemo\obj\Debug\TaskReturnDemo.csproj.AssemblyReference.cache
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\TaskReturnDemo\TaskReturnDemo\obj\Debug\TaskReturnDemo.csproj.CoreCompileInputs.cache
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\TaskReturnDemo\TaskReturnDemo\obj\Debug\TaskReturnDemo.exe
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\TaskReturnDemo\TaskReturnDemo\obj\Debug\TaskReturnDemo.pdb

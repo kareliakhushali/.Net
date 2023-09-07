@@ -1,0 +1,53 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form method="post">
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" ><br>
+    <span id="spanNameError" style="color:red" class="col-sm-3">*</span>
+
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" ><br>
+    <span id="spanEmailError" style="color:red" class="col-sm-3">*</span>
+
+    <label for="salary">Salary:</label>
+    <input id="salary" name="salary" type="number"></><br>
+
+    <input type="submit" value="Submit" id="btn">
+</form>
+@section Scripts{
+    <script>
+    function IsBlank(input) {
+        let value = input.val().trim();
+        if (value == undefined || value == '')
+            return true;
+        return false;
+    }
+    function IsOnlyNumeric(input) {
+        let value = input.val().trim();
+        return isNaN(value);
+        }
+        $(document).ready(function () {
+            $("#btn").on("click", function (event) {
+                $("#spanNameError").text("*");
+                $("#spanEmailError").text("*");
+                let name = $("#name");
+                let email = $("#email");
+                let error = false;
+                if (IsBlank(name)) {
+                    $("#spanNameError").text("Name should not be empty");
+                    error = true;
+                }
+                if (IsBlank(email)) {
+                    $("#spanEmailError").text("Email should not be empty");
+                    error = true;
+                }
+                if (error) {
+                    event.preventDefault();
+                }
+            })
+        })
+    </script>
+}
+

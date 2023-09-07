@@ -1,0 +1,7 @@
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\PracticalTask1\PracticalTask1\bin\Debug\PracticalTask1.exe.config
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\PracticalTask1\PracticalTask1\bin\Debug\PracticalTask1.exe
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\PracticalTask1\PracticalTask1\bin\Debug\PracticalTask1.pdb
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\PracticalTask1\PracticalTask1\obj\Debug\PracticalTask1.csproj.AssemblyReference.cache
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\PracticalTask1\PracticalTask1\obj\Debug\PracticalTask1.csproj.CoreCompileInputs.cache
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\PracticalTask1\PracticalTask1\obj\Debug\PracticalTask1.exe
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\PracticalTask1\PracticalTask1\obj\Debug\PracticalTask1.pdb

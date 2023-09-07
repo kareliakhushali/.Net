@@ -1,0 +1,7 @@
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\ArrayListDemo\ArrayListDemo\obj\Debug\ArrayListDemo.csproj.CoreCompileInputs.cache
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\ArrayListDemo\ArrayListDemo\obj\Debug\ArrayListDemo.csproj.AssemblyReference.cache
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\ArrayListDemo\ArrayListDemo\bin\Debug\ArrayListDemo.exe.config
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\ArrayListDemo\ArrayListDemo\bin\Debug\ArrayListDemo.exe
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\ArrayListDemo\ArrayListDemo\bin\Debug\ArrayListDemo.pdb
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\ArrayListDemo\ArrayListDemo\obj\Debug\ArrayListDemo.exe
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\ArrayListDemo\ArrayListDemo\obj\Debug\ArrayListDemo.pdb

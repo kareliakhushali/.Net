@@ -1,0 +1,7 @@
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\StationaryProducts\StationaryProducts\obj\Debug\StationaryProducts.csproj.AssemblyReference.cache
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\StationaryProducts\StationaryProducts\obj\Debug\StationaryProducts.csproj.CoreCompileInputs.cache
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\StationaryProducts\StationaryProducts\bin\Debug\StationaryProducts.exe.config
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\StationaryProducts\StationaryProducts\bin\Debug\StationaryProducts.exe
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\StationaryProducts\StationaryProducts\bin\Debug\StationaryProducts.pdb
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\StationaryProducts\StationaryProducts\obj\Debug\StationaryProducts.exe
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\StationaryProducts\StationaryProducts\obj\Debug\StationaryProducts.pdb

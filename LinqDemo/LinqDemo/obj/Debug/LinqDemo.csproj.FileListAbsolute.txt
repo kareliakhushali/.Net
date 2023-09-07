@@ -1,0 +1,7 @@
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\LinqDemo\LinqDemo\bin\Debug\LinqDemo.exe.config
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\LinqDemo\LinqDemo\bin\Debug\LinqDemo.exe
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\LinqDemo\LinqDemo\bin\Debug\LinqDemo.pdb
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\LinqDemo\LinqDemo\obj\Debug\LinqDemo.csproj.AssemblyReference.cache
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\LinqDemo\LinqDemo\obj\Debug\LinqDemo.csproj.CoreCompileInputs.cache
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\LinqDemo\LinqDemo\obj\Debug\LinqDemo.exe
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\LinqDemo\LinqDemo\obj\Debug\LinqDemo.pdb

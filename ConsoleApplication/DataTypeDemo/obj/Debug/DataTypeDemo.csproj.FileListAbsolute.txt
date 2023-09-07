@@ -1,0 +1,7 @@
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\ConsoleApplication\DataTypeDemo\bin\Debug\DataTypeDemo.exe.config
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\ConsoleApplication\DataTypeDemo\bin\Debug\DataTypeDemo.exe
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\ConsoleApplication\DataTypeDemo\bin\Debug\DataTypeDemo.pdb
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\ConsoleApplication\DataTypeDemo\obj\Debug\DataTypeDemo.csproj.AssemblyReference.cache
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\ConsoleApplication\DataTypeDemo\obj\Debug\DataTypeDemo.csproj.CoreCompileInputs.cache
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\ConsoleApplication\DataTypeDemo\obj\Debug\DataTypeDemo.exe
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\ConsoleApplication\DataTypeDemo\obj\Debug\DataTypeDemo.pdb

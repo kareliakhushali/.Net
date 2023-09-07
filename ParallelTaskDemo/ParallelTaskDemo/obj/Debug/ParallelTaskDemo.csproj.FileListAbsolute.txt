@@ -1,0 +1,7 @@
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\ParallelTaskDemo\ParallelTaskDemo\bin\Debug\ParallelTaskDemo.exe.config
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\ParallelTaskDemo\ParallelTaskDemo\bin\Debug\ParallelTaskDemo.exe
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\ParallelTaskDemo\ParallelTaskDemo\bin\Debug\ParallelTaskDemo.pdb
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\ParallelTaskDemo\ParallelTaskDemo\obj\Debug\ParallelTaskDemo.csproj.AssemblyReference.cache
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\ParallelTaskDemo\ParallelTaskDemo\obj\Debug\ParallelTaskDemo.csproj.CoreCompileInputs.cache
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\ParallelTaskDemo\ParallelTaskDemo\obj\Debug\ParallelTaskDemo.exe
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\ParallelTaskDemo\ParallelTaskDemo\obj\Debug\ParallelTaskDemo.pdb

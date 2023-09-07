@@ -1,0 +1,7 @@
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\IndexDemo\IndexDemo\bin\Debug\IndexDemo.exe.config
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\IndexDemo\IndexDemo\bin\Debug\IndexDemo.exe
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\IndexDemo\IndexDemo\bin\Debug\IndexDemo.pdb
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\IndexDemo\IndexDemo\obj\Debug\IndexDemo.csproj.AssemblyReference.cache
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\IndexDemo\IndexDemo\obj\Debug\IndexDemo.csproj.CoreCompileInputs.cache
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\IndexDemo\IndexDemo\obj\Debug\IndexDemo.exe
+C:\my data\OneDrive - Arrow Electronics, Inc\Desktop\.Net\IndexDemo\IndexDemo\obj\Debug\IndexDemo.pdb
